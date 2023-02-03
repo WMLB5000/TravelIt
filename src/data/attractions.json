@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Colosseum",
+    "city": "Rome",
+    "country": "Italy",
+    "entry_price": "$20",
+    "address": "Piazza del Colosseo, 1, 00184 Rome, Italy",
+    "opening_time": "9:00 AM",
+    "closing_time": "7:00 PM",
+    "categories": ["Historical", "Popular"],
+    "images": [
+      "https://live.staticflickr.com/7435/12432777185_d94cfac52f_b.jpg",
+      "https://rare-gallery.com/uploads/posts/5311427-coloseum-rome-architecture-ruin-building-sunset-sky-sunrise-cloud-blue-rock-landscape-city-street-monument-italium-italy-coliseu-roma-colosseo-creative-commons-images.jpg",
+      "https://cdn.britannica.com/03/98303-050-C8036C9D/Interior-Colosseum-Rome.jpg",
+      "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_18/3469691/210503-rome-colosseum-al-0724.jpg",
+      "https://www.findingtheuniverse.com/wp-content/uploads/2019/05/Rome-Colosseum-Guide_by_Laurence-Norah-2.jpg",
+      "https://www.rome.info/wp-content/uploads/f-colosseum-aerial-view-1280x720.jpg",
+      "https://rare-gallery.com/uploads/posts/5311427-coloseum-rome-architecture-ruin-building-sunset-sky-sunrise-cloud-blue-rock-landscape-city-street-monument-italium-italy-coliseu-roma-colosseo-creative-commons-images.jpg"
+    ],
+    "coordinates": {
+      "lat": 41.8902,
+      "lon": 12.4922
+    }
+  },
+
+  {
+    "id": 2,
+    "name": "Leaning Tower Of Pisa",
+    "city": "Rome",
+    "country": "Italy",
+    "entry_price": "$20",
+    "address": "Piazza del Colosseo, 1, 00184 Rome, Italy",
+    "opening time": "9:00 AM",
+    "closing time": "7:00 PM",
+    "categories": ["Most Visited", "Popular"],
+    "images": [
+      "https://www.gannett-cdn.com/-mm-/6cb0566daad6b8973e2c456e7a61df50f54939b5/c=0-117-1408-1994/local/-/media/2017/01/04/USATODAY/USATODAY/636191149244091355-GettyImages-537365893.jpg",
+      "https://live.staticflickr.com/4912/45489901085_34ffaebe3d_b.jpg"
+    ],
+    "coordinates": {
+      "lat": 41.8902,
+      "lon": 12.4922
+    }
+  },
+
+  {
+    "id": 3,
+    "name": "Taj Mahal",
+    "city": "Rome",
+    "country": "Italy",
+    "entry_price": "$20",
+    "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001",
+    "opening time": "9:00 AM",
+    "closing time": "7:00 PM",
+    "categories": ["Most Visited", "Popular"],
+    "images": [
+      "https://skift.com/wp-content/uploads/2022/06/GettyImages-1208049833-scaled-e1654782364566-1024x682.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPblCt-Hefyfzyr_W5Mp76UAeYhjqqFEgPKg&usqp=CAU"
+    ],
+    "coordinates": {
+      "lat": 27.1751,
+      "lon": 78.0421
+    }
+  },
+
+  {
+    "id": 4,
+    "name": "Colosseum",
+    "city": "Rome",
+    "country": "Italy",
+    "entry_price": "$20",
+    "address": "Piazza del Colosseo, 1, 00184 Rome, Italy",
+    "opening time": "9:00 AM",
+    "closing time": "7:00 PM",
+    "categories": ["Most Visited", "Recommended"],
+    "images": [
+      "https://live.staticflickr.com/7435/12432777185_d94cfac52f_b.jpg",
+      "https://rare-gallery.com/uploads/posts/5311427-coloseum-rome-architecture-ruin-building-sunset-sky-sunrise-cloud-blue-rock-landscape-city-street-monument-italium-italy-coliseu-roma-colosseo-creative-commons-images.jpg"
+    ],
+    "coordinates": {
+      "lat": 41.8902,
+      "lon": 12.4922
+    }
+  },
+  {
+    "id": 5,
+    "name": "Colosseum",
+    "city": "Rome",
+    "country": "Italy",
+    "entry_price": "$20",
+    "address": "Piazza del Colosseo, 1, 00184 Rome, Italy",
+    "opening time": "9:00 AM",
+    "closing time": "7:00 PM",
+    "categories": ["Most Visited", "Popular"],
+    "images": [
+      "https://live.staticflickr.com/7435/12432777185_d94cfac52f_b.jpg",
+      "https://rare-gallery.com/uploads/posts/5311427-coloseum-rome-architecture-ruin-building-sunset-sky-sunrise-cloud-blue-rock-landscape-city-street-monument-italium-italy-coliseu-roma-colosseo-creative-commons-images.jpg"
+    ],
+    "coordinates": {
+      "lat": 41.8902,
+      "lon": 12.4922
+    }
+  },
+  {
+    "id": 6,
+    "name": "Colosseum",
+    "city": "Rome",
+    "country": "Italy",
+    "entry_price": "$20",
+    "address": "Piazza del Colosseo, 1, 00184 Rome, Italy",
+    "opening time": "9:00 AM",
+    "closing time": "7:00 PM",
+    "categories": ["Most Visited", "Popular"],
+    "images": [
+      "https://live.staticflickr.com/7435/12432777185_d94cfac52f_b.jpg",
+      "https://rare-gallery.com/uploads/posts/5311427-coloseum-rome-architecture-ruin-building-sunset-sky-sunrise-cloud-blue-rock-landscape-city-street-monument-italium-italy-coliseu-roma-colosseo-creative-commons-images.jpg"
+    ],
+    "coordinates": {
+      "lat": 41.8902,
+      "lon": 12.4922
+    }
+  },
+  {
+    "id": 7,
+    "name": "Colosseum",
+    "city": "Rome",
+    "country": "Italy",
+    "entry_price": "$20",
+    "address": "Piazza del Colosseo, 1, 00184 Rome, Italy",
+    "opening time": "9:00 AM",
+    "closing time": "7:00 PM",
+    "categories": ["Most Visited", "Popular"],
+    "images": [
+      "https://live.staticflickr.com/7435/12432777185_d94cfac52f_b.jpg",
+      "https://rare-gallery.com/uploads/posts/5311427-coloseum-rome-architecture-ruin-building-sunset-sky-sunrise-cloud-blue-rock-landscape-city-street-monument-italium-italy-coliseu-roma-colosseo-creative-commons-images.jpg"
+    ],
+    "coordinates": {
+      "lat": 41.8902,
+      "lon": 12.4922
+    }
+  },
+  {
+    "id": 8,
+    "name": "Colosseum",
+    "city": "Rome",
+    "country": "Italy",
+    "entry_price": "$20",
+    "address": "Piazza del Colosseo, 1, 00184 Rome, Italy",
+    "opening time": "9:00 AM",
+    "closing time": "7:00 PM",
+    "categories": ["Most Visited", "Popular"],
+    "images": [
+      "https://live.staticflickr.com/7435/12432777185_d94cfac52f_b.jpg",
+      "https://rare-gallery.com/uploads/posts/5311427-coloseum-rome-architecture-ruin-building-sunset-sky-sunrise-cloud-blue-rock-landscape-city-street-monument-italium-italy-coliseu-roma-colosseo-creative-commons-images.jpg"
+    ],
+    "coordinates": {
+      "lat": 41.8902,
+      "lon": 12.4922
+    }
+  }
+]
