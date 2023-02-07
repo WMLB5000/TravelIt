@@ -27,36 +27,38 @@
   {
     "id": 2,
     "name": "Leaning Tower Of Pisa",
-    "city": "Rome",
+    "city": "Pisa",
     "country": "Italy",
     "entry_price": "$20",
-    "address": "Piazza del Colosseo, 1, 00184 Rome, Italy",
-    "opening time": "9:00 AM",
-    "closing time": "7:00 PM",
+    "address": "Piazza del Duomo, 56126 Pisa PI, Italy",
+    "opening_time": "9:00 AM",
+    "closing_time": "7:00 PM",
     "categories": ["Most Visited", "Popular"],
     "images": [
       "https://www.gannett-cdn.com/-mm-/6cb0566daad6b8973e2c456e7a61df50f54939b5/c=0-117-1408-1994/local/-/media/2017/01/04/USATODAY/USATODAY/636191149244091355-GettyImages-537365893.jpg",
-      "https://live.staticflickr.com/4912/45489901085_34ffaebe3d_b.jpg"
+      "https://live.staticflickr.com/4912/45489901085_34ffaebe3d_b.jpg",
+      "https://images.ctfassets.net/cnu0m8re1exe/1tI0J6fFR4TQAU7YApSjcE/3aedcf058c5f2cd9212b86731541ac3d/shutterstock_745306897.jpg"
     ],
     "coordinates": {
-      "lat": 41.8902,
-      "lon": 12.4922
+      "lat": 43.7230,
+      "lon": 10.3966
     }
   },
 
   {
     "id": 3,
     "name": "Taj Mahal",
-    "city": "Rome",
+    "city": "Agra",
     "country": "Italy",
     "entry_price": "$20",
     "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001",
-    "opening time": "9:00 AM",
-    "closing time": "7:00 PM",
+    "opening_time": "9:00 AM",
+    "closing_time": "7:00 PM",
     "categories": ["Most Visited", "Popular"],
     "images": [
       "https://skift.com/wp-content/uploads/2022/06/GettyImages-1208049833-scaled-e1654782364566-1024x682.jpg",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPblCt-Hefyfzyr_W5Mp76UAeYhjqqFEgPKg&usqp=CAU"
+      "https://images.unsplash.com/photo-1564507592333-c60657eea523?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGFqJTIwbWFoYWx8ZW58MHx8MHx8&w=1000&q=80",
+      "https://cdn.audleytravel.com/3619/2585/79/109962-taj-mahal-at-sunset-seen-from-metah-bagh-agra.jpg"
     ],
     "coordinates": {
       "lat": 27.1751,
@@ -66,21 +68,22 @@
 
   {
     "id": 4,
-    "name": "Colosseum",
-    "city": "Rome",
-    "country": "Italy",
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "country": "USA",
     "entry_price": "$20",
-    "address": "Piazza del Colosseo, 1, 00184 Rome, Italy",
-    "opening time": "9:00 AM",
-    "closing time": "7:00 PM",
+    "address": "Liberty Island",
+    "opening_time": "9:00 AM",
+    "closing_time": "7:00 PM",
     "categories": ["Most Visited", "Recommended"],
     "images": [
-      "https://live.staticflickr.com/7435/12432777185_d94cfac52f_b.jpg",
-      "https://rare-gallery.com/uploads/posts/5311427-coloseum-rome-architecture-ruin-building-sunset-sky-sunrise-cloud-blue-rock-landscape-city-street-monument-italium-italy-coliseu-roma-colosseo-creative-commons-images.jpg"
+      "https://cdn.mos.cms.futurecdn.net/XsbvTN6PRi6PZtgEGvRsiE.jpg",
+      "https://content.api.news/v3/images/bin/b21f7ce38d43a507dbcfd096f4fc7a02",
+      "https://www.history.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY1MTc1MTk3ODI0MDAxNjA5/topic-statue-of-liberty-gettyimages-960610006-promo.jpg"
     ],
     "coordinates": {
-      "lat": 41.8902,
-      "lon": 12.4922
+      "lat": 40.6892,
+      "lon": -74.0445
     }
   },
   {
@@ -104,44 +107,6 @@
   },
   {
     "id": 6,
-    "name": "Colosseum",
-    "city": "Rome",
-    "country": "Italy",
-    "entry_price": "$20",
-    "address": "Piazza del Colosseo, 1, 00184 Rome, Italy",
-    "opening time": "9:00 AM",
-    "closing time": "7:00 PM",
-    "categories": ["Most Visited", "Popular"],
-    "images": [
-      "https://live.staticflickr.com/7435/12432777185_d94cfac52f_b.jpg",
-      "https://rare-gallery.com/uploads/posts/5311427-coloseum-rome-architecture-ruin-building-sunset-sky-sunrise-cloud-blue-rock-landscape-city-street-monument-italium-italy-coliseu-roma-colosseo-creative-commons-images.jpg"
-    ],
-    "coordinates": {
-      "lat": 41.8902,
-      "lon": 12.4922
-    }
-  },
-  {
-    "id": 7,
-    "name": "Colosseum",
-    "city": "Rome",
-    "country": "Italy",
-    "entry_price": "$20",
-    "address": "Piazza del Colosseo, 1, 00184 Rome, Italy",
-    "opening time": "9:00 AM",
-    "closing time": "7:00 PM",
-    "categories": ["Most Visited", "Popular"],
-    "images": [
-      "https://live.staticflickr.com/7435/12432777185_d94cfac52f_b.jpg",
-      "https://rare-gallery.com/uploads/posts/5311427-coloseum-rome-architecture-ruin-building-sunset-sky-sunrise-cloud-blue-rock-landscape-city-street-monument-italium-italy-coliseu-roma-colosseo-creative-commons-images.jpg"
-    ],
-    "coordinates": {
-      "lat": 41.8902,
-      "lon": 12.4922
-    }
-  },
-  {
-    "id": 8,
     "name": "Colosseum",
     "city": "Rome",
     "country": "Italy",
